@@ -8,7 +8,7 @@ package com.it.test;
 public class Test {
     public void main(String[]s){
         System.out.println("master02 ");
-
         System.out.println("111aaaaa");
+        System.out.println("111aaaaaaaa");
     }
 }
