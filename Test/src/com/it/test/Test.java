@@ -7,6 +7,6 @@ package com.it.test;
  */
 public class Test {
     public void main(String[]s){
-        System.out.println("11112312312312312");
+        System.out.println("master");
     }
 }
