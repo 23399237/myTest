@@ -9,5 +9,6 @@ public class Test {
     public void main(String[]s){
         System.out.println("master");
         System.out.println("master0101");
+        System.out.println("master0202");
     }
 }
