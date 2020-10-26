@@ -14,5 +14,6 @@ public class Test {
         System.out.println("111aaaaaaaaaaa2");
         System.out.println("master01");
         System.out.println("111123123123");
+        System.out.println("$$$$$$$$$$$$$");
     }
 }
