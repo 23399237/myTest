@@ -7,6 +7,6 @@ package com.it.test;
  */
 public class Test {
     public void main(String[]s){
-        System.out.println("111123123123");
+        System.out.println("$$$$$$$$$$$$$");
     }
 }
