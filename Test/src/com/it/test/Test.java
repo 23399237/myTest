@@ -8,5 +8,8 @@ package com.it.test;
 public class Test {
     public void main(String[]s){
         System.out.println("$$$$$$$$$$$$$!!!!@@@");
+        System.out.println("$$$$$$$$$$$$$!!!!@@@");
+        System.out.println("$$$$$$$$$$$$$!!!!@@@");
+        System.out.println("$$$$$$$$$$$$$!!!!@@@");
     }
 }
