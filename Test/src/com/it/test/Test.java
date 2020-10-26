@@ -22,5 +22,6 @@ public class Test {
         System.out.println("$$$$$$$$$$$$$!!!!@@@");
         System.out.println("$$$$$$$$$$$$$!!!!@@@");
         System.out.println("master_02");
+        System.out.println("master02");
     }
 }
